@@ -9,11 +9,11 @@ Artificial intelligence (AI) has acquired notorious relevance in modern computin
 ## Literature search
 The results of the search and filtering process are provided in the next document:
 
-List of returned papers per database, candidate papers, and primary studies ([XLSX](http://www.uco.es/grupos/kdis/ai4slr/survey/KDIS_AI4SLR_SearchResults.xlsx), 1.28 MB)
+List of returned papers per database, candidate papers, and primary studies ([XLSX](./KDIS_AI4SLR_SearchResults.xlsx), 1.28 MB)
 
 The second document defines the 'data extraction form' used for the analysis of primary studies, and includes summary statistics:
 
-Data extraction form and summary statistics ([XLSX](http://www.uco.es/grupos/kdis/ai4slr/survey/KDIS_AI4SLR_SummaryStatistics.xlsx), 52 KB)
+Data extraction form and summary statistics ([XLSX](./KDIS_AI4SLR_SummaryStatistics.xlsx), 52 KB)
 
 # Analysis of tools
 
